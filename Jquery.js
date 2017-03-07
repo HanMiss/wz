@@ -1,5 +1,6 @@
 function test(){
 	alert("shangyongyongdashazi");
-	alert("wodexiaolaoshihenshuai")
+	alert("wodexiaolaoshihenshuai");
+	document.write("烧面")；
 }
 test();
